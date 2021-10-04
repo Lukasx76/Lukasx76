@@ -5,7 +5,7 @@
 I am a student of programming and all the stuff related to technology, I actually live in São Paulo, Brazil.
 
 ## Skills: ###
-* EMOJICODE:
+
 * Python 🐍
 * Java ☕
 * Html, Css & JS 💻
