@@ -4,10 +4,15 @@
 
 I am a student of programming and all the stuff related to technology, I actually live in São Paulo, Brazil.
 
-Skills: PYTHON  / JAVA / JS / HTML / CSS
+## Skills: ###
+* EMOJICODE:
+* Python 🐍
+* Java ☕
+* Html, Css & JS 💻
+
 
 - 🔭 I’m currently working on sharpening my coding skills 
-- 🌱 I’m currently learning Python and Java 
+- 🌱 I’m currently learning Python, Java and JavaScript
 
 
 
