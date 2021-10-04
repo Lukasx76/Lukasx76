@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Lucas
 #### Back-end Developer
-![Back-end Developer](https://thumbs.dreamstime.com/b/technology-concept-programming-web-banner-best-languages-process-software-development-126973987.jpg)
+![Back-end Developer](https://github.com/Lukasx76/Lukasx76/blob/main/istockphoto-1226864194-170667a.jpg)
 
 I am a student of programming and all the stuff related to technology, I actually live in São Paulo, Brazil.
 
