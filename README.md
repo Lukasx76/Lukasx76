@@ -1,15 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Lucas
+#### Back-end Developer
+![Back-end Developer](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
 
-### My name is Lucas
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I am a student of programming and all the stuff related to technology, I actually live in São Paulo, Brazil.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON  / JAVA / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-
-
 
