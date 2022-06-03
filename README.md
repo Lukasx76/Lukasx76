@@ -6,6 +6,6 @@ I'm a student of programming and all the stuff related to technology, I'm actual
 ## Skills: ###
 
 ### Python ###
-*Pandas
-*Selenium
-*Pyautogui
+#Pandas
+#Selenium
+#Pyautogui
