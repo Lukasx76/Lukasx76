@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A junior back-end Python developer</h3>
+<h3 align="center">A FullStack Python developer</h3>
 
-- 🌱 I’m currently learning **Django,**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **lucas.gomes2002@gmail.com**
 
